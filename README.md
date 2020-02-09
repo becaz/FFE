@@ -1,4 +1,4 @@
-# Prime Fields
+# Prime Fields in Ruby
 This project bears educational purpose, and can be used for proof of concepts or small experiments. We implement a prime field element and arithmetic operations on these elements.
 
 ## Definition
