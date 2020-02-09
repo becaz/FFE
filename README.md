@@ -388,3 +388,7 @@ Let's play around with our class. Let's consider the prime field *F*<sub>7</sub>
 `b = FieldElement.new(value: 5, prime: 7)`
 
 `puts a*b # => FE7(1)`
+
+## References
+1. *Programming Bitcoin*, Jimmy Song
+2. *Algebraic Aspects of Cryptography*, Neal Koblitz
